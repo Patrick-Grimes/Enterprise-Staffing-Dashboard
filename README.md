@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard designed to analyze headcount planning, talent flow, and monthly attrition trends for a rapidly growing SaaS enterprise.
 
-**Live Dashboard:** [(https://public.tableau.com/app/profile/patrick.grimes8853/viz/Enterprise_Staffing_Dashboard/Techwinds_DB?publish=yes)]
+**Live Dashboard:** https://public.tableau.com/app/profile/patrick.grimes8853/viz/Enterprise_Staffing_Dashboard/Techwinds_DB?publish=yes
 
 ## Business Overview
 [Fictional Situation]: During a period of high growth and simultaneous Q4 attrition, the HR leadership team required a streamlined, centralized tool to monitor the organization's staffing mix and talent flow. This dashboard translates raw HR headcount data into actionable business intelligence to ensure hiring paces appropriately with departures.
